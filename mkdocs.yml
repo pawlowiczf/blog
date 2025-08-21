@@ -1,0 +1,18 @@
+site_name: My Docs
+site_url: https://sitename.example
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+      authors: true
+
+      categories_allowed:
+        - DevOps
+        - Docker
+        - Kubernetes
+
+      post_readtime: false
