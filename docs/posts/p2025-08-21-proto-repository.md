@@ -18,3 +18,4 @@ In a microservices architecture, Protobuf files and generated stubs are often us
 
 <!-- more -->
 
+Project files: [schema-definitions-repository](../files/p2025-08-21-proto-repository/schema-definitions.zip)
